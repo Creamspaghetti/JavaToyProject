@@ -1,4 +1,4 @@
-﻿# newrepository
+﻿# Toy project
 자바 토이 프로젝트
 
 - 주제 : 오목 및 야구게임
